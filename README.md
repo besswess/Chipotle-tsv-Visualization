@@ -1,6 +1,6 @@
 # Chipotle-tsv-Visualization
 
-Using python, conduct some exploratory data analysis on Chipotle's order data. You will be looking to answer such questions as:
+Using python, conduct some exploratory data analysis on Chipotle's order data. I will be looking to answer such questions as:
 
 * How many orders are being made?
 * What is the average price per order?
